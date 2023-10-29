@@ -1,0 +1,8 @@
+pandas
+langchain 
+python-dotenv 
+streamlit 
+tiktoken 
+faiss-cpu 
+protobuf
+google-generativeai
