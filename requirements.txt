@@ -1,8 +1,8 @@
-pandas
+#pandas
 langchain 
-python-dotenv 
+#python-dotenv 
 streamlit 
 tiktoken 
-faiss-cpu 
-protobuf
+#faiss-cpu 
+#protobuf
 google-generativeai
