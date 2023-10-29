@@ -7,7 +7,7 @@ api_key = 'AIzaSyAolOXNAoKHZWOlfd-Qn4pbbW3WZepJ6wU' # get this free api key from
 
 llm = GooglePalm(google_api_key=api_key, temperature=0.1)
 
-poem = llm("Write a 10 line poem about python programming language")
+poem = llm("Write a 30 line poem about pizza and Italian people")
 
 
 st.write(poem)
